@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "sovokcity:ration_point",
+    "sovokcity:food_store",
+    "sovokcity:black_market",
+    "sovokcity:slot_machine",
+    "sovokcity:croupier"
+  ]
+}
